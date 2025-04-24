@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Liza! 👋
 
-<!--
-**anjufehno/anjufehno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer based in Estonia
+BSc in Computer Science 🎓
 
-Here are some ideas to get you started:
+💻 Tech stack: JavaScript, React, HTML, CSS
+🎨 Love building creative UIs (especially with a bit of cartoonish flair!)
+🤝 Passionate about teamwork and creating a supportive environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+Some of my projects:
+	1.	Brake Distance Calculator 🚗
+An app that calculates the braking distance for a car based on speed and road surface.
+	2.	Movie Database Website 🎬
+A site with a movie database where you can search for films, view detailed info, and enjoy a beautiful design with login features.
+	3.	React Mini Projects ⚛️
+Small React projects, and I’m excited to grow my skills further!
